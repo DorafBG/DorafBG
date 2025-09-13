@@ -15,6 +15,6 @@ I like to experiment with a wide range of languages and tools, including:
 - Assembly (ASM)
 
 # GitHub Stats
-![Quentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ton_pseudo&show_icons=true&theme=tokyonight)
+![Quentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorafbg&show_icons=true&theme=tokyonight)
 
 Always curious, always learning 🚀
