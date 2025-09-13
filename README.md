@@ -1,16 +1,20 @@
-# About me
+# About Me
 
-➡️ Je m'appelle Quentin, j'aime coder et c'est déjà bien 👍
+Hi, I'm Quentin, an engineering student passionate about software development.  
+I enjoy exploring different technologies and continuously improving my skills through personal and academic projects. While many of my projects remain private, you'll find a selection of them here on GitHub.  
 
-J'essaye de faire des trucs toujours dans l'optique de m'améliorer tu connais, la plupart des trucs que j'essaye sont privés mais y une partie ici si tu veux checker un coup d'oeil !
+## Skills
+I like to experiment with a wide range of languages and tools, including:  
+- PHP  
+- JavaScript / TypeScript  
+- HTML / CSS  
+- C++  
+- C#  
+- Java  
+- SQL (with PL/SQL)  
+- Assembly (ASM)
 
-J'essaye de toucher à tout : 
-- PHP
-- JavaScript / Typescript
-- HTML/CSS
-- C++
-- C#
-- Java
-- SQL (avec PL/SQL)
-- Assembleur (ASM)
+# GitHub Stats
+![Quentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ton_pseudo&show_icons=true&theme=tokyonight)
 
+Always curious, always learning 🚀
